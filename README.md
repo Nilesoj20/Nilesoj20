@@ -1,16 +1,22 @@
-### Hi there 👋 Estoy en construccion... 
+# ¡Hola! Bienvenido a mi perfil!! 
 
-<!--
-**Nilesoj20/Nilesoj20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+¡Hola! Me presento Soy Joselin Rivas, desarrolladora Full Stack apasionada por la creación de soluciones innovadoras. Tengo experiencia tanto en el desarrollo del lado del cliente como del servidor, y me encanta explorar 📔 nuevas tecnologías para mejorar mis habilidades y crear productos increíbles.
 
-Here are some ideas to get you started:
+## Tecnologías que manejo
+- Lenguajes de programación: JavaScript, Python, HTML, CSS y PHP
+- Frontend: React.js y Angular
+- Backend: Node.js, Flask y FastAPI
+- Bases de datos: MongoDB, MySQL
+- Otros: Git, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- [Proyecto 1](enlace al proyecto 1): Breve descripción del proyecto.
+- [Proyecto 2](enlace al proyecto 2): Breve descripción del proyecto.
+- [Proyecto 3](enlace al proyecto 3): Breve descripción del proyecto.
+
+## Contacto
+¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto!
+- LinkedIn: [LinkedIn]([enlace](https://www.instagram.com/joselin.rivas.50/?hl=es))
+- Correo electrónico: [vicmarrivas20@gmail.com](vicmarrivas20@gmail.com)
+
